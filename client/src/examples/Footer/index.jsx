@@ -69,7 +69,7 @@ function Footer({ company }) {
 
 // Setting default values for the props of Footer
 Footer.defaultProps = {
-  company: { href: "https://github.com/joetechster", name: "Joe" },
+  company: { href: "https://github.com/Kvngjr", name: "Michael, Shubomi & Divine." },
 };
 
 // Typechecking props for the Footer
